@@ -43,7 +43,7 @@ const srt = ScrollReveal({
     reset: true
 });
 
-srt.reveal(`.cont-top, .testimonies-title`, {
+srt.reveal(`.cont-top, .testimonies-title, .titled-center`, {
     interval: 400
 })
 
